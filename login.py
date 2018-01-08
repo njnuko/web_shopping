@@ -3,8 +3,8 @@ import urllib
 import urllib.request
 
 
-LOGIN = '17130521852'
-PASSWD = "2016Bandit"
+LOGIN = 'name'
+PASSWD = "passwd"
 URL = 'https://account.xiaomi.com/pass/serviceLogin?'
 REALM = 'Secure Archive'
 
